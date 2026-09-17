@@ -1,6 +1,6 @@
 # Hi, I'm Tuğçe 👋
 
-**Senior Project Manager | PSPO | MSc Information Systems**
+**Senior Project Manager | PSPO | Masters in Information Systems**
 
 I bridge **business, product, and technology** to solve real-world problems.
 
