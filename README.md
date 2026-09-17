@@ -1,7 +1,5 @@
 # Hi, I'm Tuğçe 👋
 
-**Senior Project Manager | PSPO | Masters Information Systems**
-
 I work at the intersection of **business, product, and technology**, turning business needs into practical technology solutions across **fintech, e-commerce, and enterprise software**.
 
 My background combines **project management, solution consulting, technical analysis, and software delivery**. I enjoy understanding how systems work and using technology to solve real business problems.
