@@ -7,11 +7,17 @@ My background combines **project management, solution consulting, technical anal
 On GitHub, I explore and build hands-on projects around **Python, data analytics, machine learning, AI, and customer behavior**, from fintech behavioral segmentation and RFM analysis to predictive modeling and computer vision.
 
 🔹 FinTech & Digital Products
+
 🔹 AI / Machine Learning
+
 🔹 Data Analytics & Customer Segmentation
+
 🔹 Python & SQL
+
 🔹 Product & Project Management
+
 🔹 Business–Technology Alignment
+
 
 Currently, I’m especially interested in **AI-driven products, intelligent automation, and using data to support better product and business decisions**.
 
