@@ -1,6 +1,6 @@
 # Hi, I'm Tuğçe 👋
 
-I work at the intersection of **business, product, and technology**, turning business needs into practical technology solutions across **fintech, e-commerce, and enterprise software**.
+I work at the intersection of **business, product, and technology**, turning business needs into practical technology solutions across **fintech, e-commerce, customer experience (CX) platforms, and enterprise software**.
 
 My background combines **project management, solution consulting, technical analysis, and software delivery**. I enjoy understanding how systems work and using technology to solve real business problems.
 
